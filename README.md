@@ -1,6 +1,7 @@
 # consolidation-network
 model of house upgrade decision witin a social network in NetLogo
 
+```
 extensions [ csv ]
 
 globals[num-nodes]
@@ -200,3 +201,5 @@ to recolor-patch
   [set pcolor brown + state]
   ]
 end
+
+```
